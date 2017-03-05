@@ -1,8 +1,8 @@
-# 🌮 Taco Style 🕺
+# Style 🕺
 
 
 
-A style library for Project T.A.C.O., which is a short undertaking between BuildIt and DesignIt in NYC.
+A style library that is part of a design system concept.
 
 In order to update and have your updates show up on the app or the living style guide here is what you need to do:
 
